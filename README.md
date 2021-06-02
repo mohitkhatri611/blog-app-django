@@ -10,12 +10,12 @@ Learnings from this project:
 --> *Preview :*
 
 <div align="center">
-  <a href="https://drawsql.app/dennis-ivy/diagrams/mumble">
-<img width="80%" align="center" src="./images/screenshot1.png"/>
-<img width="80%" align="center" src="./images/screenshot2.png"/>
-<img width="80%" align="center" src="./images/screenshot3.png"/>
-<img width="80%" align="center" src="./images/screenshot4.png"/>
-  </a>
+  
+<img width="80%" align="center" src="./images/screenshot1.png"/><br><br>
+<img width="80%" align="center" src="./images/screenshot2.png"/><br><br>
+<img width="80%" align="center" src="./images/screenshot3.png"/><br><br>
+<img width="80%" align="center" src="./images/screenshot4.png"/><br><br>
+  
 </div>
 
 
